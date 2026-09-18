@@ -1,0 +1,10 @@
+{
+  "description": "Upload photos to seamlessly integrate them into custom design templates, enabling users to create personalized visuals effortlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
