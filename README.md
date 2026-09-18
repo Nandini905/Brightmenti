@@ -6,7 +6,7 @@
 
 **Engineering unified digital ecosystems for modern founders, high-volume D2C brands, and scalable enterprises.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brightmenti-ko1fgvdtm-nandinipathak877-1048s-projects.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brightmenti.vercel.app/)
 [![React 19](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-v4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -21,10 +21,10 @@
 **Brightmenti** is a high-performance, multi-page agency web application and unified operations platform. Inspired by the refined design aesthetics of **Apple × Stripe × Linear**, it blends visual craftsmanship with conversion-focused UX, automated lead-capture pipelines, and role-protected internal staff portals.
 
 ### 🌟 Live Links
-- **Public Platform:** [https://brightmenti-ko1fgvdtm-nandinipathak877-1048s-projects.vercel.app/](https://brightmenti-ko1fgvdtm-nandinipathak877-1048s-projects.vercel.app/)
-- **Staff Sign-in:** [https://brightmenti-ko1fgvdtm-nandinipathak877-1048s-projects.vercel.app/login](https://brightmenti-ko1fgvdtm-nandinipathak877-1048s-projects.vercel.app/login)
-- **Admin Control Center:** [https://brightmenti-ko1fgvdtm-nandinipathak877-1048s-projects.vercel.app/admin](https://brightmenti-ko1fgvdtm-nandinipathak877-1048s-projects.vercel.app/admin)
-- **Manager Reception Hub:** [https://brightmenti-ko1fgvdtm-nandinipathak877-1048s-projects.vercel.app/manager](https://brightmenti-ko1fgvdtm-nandinipathak877-1048s-projects.vercel.app/manager)
+- **Public Platform:** [https://brightmenti.vercel.app/](https://brightmenti.vercel.app/)
+- **Staff Sign-in:** [https://brightmenti.vercel.app/login](https://brightmenti.vercel.app/login)
+- **Admin Control Center:** [https://brightmenti.vercel.app/admin](https://brightmenti.vercel.app/admin)
+- **Manager Reception Hub:** [https://brightmenti.vercel.app/manager](https://brightmenti.vercel.app/manager)
 
 ---
 
@@ -81,7 +81,7 @@ The application features a secure, role-based internal ecosystem accessible to v
 
 ## 🔑 Pre-Configured Test Credentials
 
-For evaluation and testing, you can use these built-in staff accounts on the [/login](https://brightmenti-ko1fgvdtm-nandinipathak877-1048s-projects.vercel.app/login) page (or click the **"Quick Test Accounts"** buttons for 1-click login):
+For evaluation and testing, you can use these built-in staff accounts on the [/login](https://brightmenti.vercel.app/login) page (or click the **"Quick Test Accounts"** buttons for 1-click login):
 
 | Role | Work Email | Password | Access Level |
 | :--- | :--- | :--- | :--- |
