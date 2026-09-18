@@ -94,6 +94,7 @@ export default function Footer() {
             <span className="hover:text-[#1d1630] cursor-default">Privacy Policy</span>
             <span className="hover:text-[#1d1630] cursor-default">Terms of Service</span>
             <span className="hover:text-[#1d1630] cursor-default">Security</span>
+            <Link to="/login" className="hover:text-[#6040a8] text-[#7b5ac5] font-mono font-medium transition-colors">Staff Portal 🔒</Link>
           </div>
         </div>
       </div>
